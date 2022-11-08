@@ -1,4 +1,4 @@
 # go_http
 ```
-go build main.go
+go build -o binaries/ src/server.go
 ```

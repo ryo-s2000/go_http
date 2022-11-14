@@ -1,6 +1,6 @@
 # go_http
 ```
-go build -o binaries/ src/server.go
+go build -o binaries/ src/server/server.go
 ./binaries/server
-go run src/cliant.go
+go run src/client/client.go
 ```
